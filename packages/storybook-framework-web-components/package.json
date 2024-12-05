@@ -70,7 +70,7 @@
     "@storybook/addon-interactions": "^7.0.0",
     "@storybook/addon-links": "^7.0.0",
     "@storybook/blocks": "^7.0.0",
-    "@storybook/types": "^7.0.0",
+    "@storybook/types": "^8.4.6",
     "@web/dev-server": "^0.4.0",
     "@web/rollup-plugin-import-meta-assets": "^2.2.1",
     "@web/storybook-utils": "^1.0.1",
